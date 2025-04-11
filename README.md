@@ -1,2 +1,2 @@
 # Automatic-Weather-Station
-Repository Automatic Weather System
+Repository Low Power Automatic Weather System 
